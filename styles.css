@@ -1,0 +1,90 @@
+
+.carregris {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
+body {
+    background-color: #E9ECEF;
+    font-family: 'Philosopher', sans-serif;
+}
+
+h2 {
+    font-family: 'Tangerine', cursive;
+}
+
+.carrenoir {
+    background-color: #343A40;
+    color: white;
+    padding: 2rem;
+}
+
+.boutonnoir {
+    background-color: #343A40;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.boutongris {
+    background-color: #e9ecef;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.espace {
+    padding-top: 50px;
+}
+
+.petit-espace {
+    padding-top: 25px;
+}
+
+.milieu {			
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.carrenoirr {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    background-color: #343A40;
+    color: white;
+}
+
+button {
+    cursor: pointer; 
+}
+
+.img-cercle {
+    border-radius: 50%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
